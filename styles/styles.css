@@ -1,0 +1,42 @@
+
+/* Top section */
+#Top{
+  background-color: #393E46;
+  text-align: center;
+  padding: 30px;
+  color: #4ECCA3;
+  font-size: 8rem;
+
+}
+.heading{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+}
+
+#Top.container-fluid{
+  background-color: #393E46;
+}
+/* middle section */
+
+#middle{
+  text-align: center;
+  padding: 40px;
+}
+
+
+/* Footer Section */
+
+#footer{
+  background-color: #393E46;
+  text-align: center;
+  padding: 40px;
+  color: #EEEEEE;
+  font-family: 'Indie Flower', cursive;
+  text-shadow: 5px 0 #232931;
+}
+
+.dice{
+  padding:5px;
+}
